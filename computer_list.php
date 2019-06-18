@@ -110,7 +110,8 @@ function ValidateON()
 	
  //if (confirmation){ 
   //action à faire pour la valeur true 
-alert ("Pas d'accès a cette fonctionalité !");
+alert ("Pas d'accès à cette fonctionalité !");
+	alert (" Desole pour vous ");
 
 //	}
 	   
